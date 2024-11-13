@@ -1,6 +1,6 @@
 # API Minhas Rotinas
 
-> Foi desenvolvido também o **front end Minhas listas**. Se quiser olhar como ficou [clique aqui](https://github.com/kassiosilva/todolist-frontend).
+> Foi desenvolvido também o **front end Minhas listas**. Se quiser olhar como ficou [clique aqui](https://github.com/cristianosolutions/todolist/tree/main/frontend).
 
 Esse backend traz todas as principais funcionalidades de uma lista de tarefas, além de persistir as tarefas em um banco de dados. Essa API foi feita como trabalho final da disciplina de desenv plataformas web.
 
@@ -25,7 +25,6 @@ As seguintes ferramentas foram usadas na construção do backend:
 ## 🚀 Como executar o projeto api
 
 > Antes de tudo tenha certeza que você tem o ambiente Node.js configurado na sua máquina.
-> Mongogb
 
 Clone o projeto e depois de baixado entre na raiz do projeto e execute:
 
