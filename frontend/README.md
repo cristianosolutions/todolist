@@ -1,5 +1,5 @@
 <h1 align="center">
-  Minhas Tarefas
+  Rotinas Diarias
 </h1>
 
 <p align="center" style="margin-right: 8px">
