@@ -63,4 +63,4 @@ Feito isso, execute o comando na raiz:
 npm run dev
 ```
 
-Se tudo estiver certo, o frontend irá iniciar 🚀
+## Se tudo estiver certo, o frontend irá iniciar 🚀
