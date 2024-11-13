@@ -79,7 +79,7 @@ Esse front end traz todas as principais funcionalidades de uma lista de tarefas,
 
 - Criação de usuários
 
-  ![Tela de cadastro de usuário](/assets/readme/register.png "Cadastro")
+  ![Tela de cadastro de usuário](frontend/assets/readme/register.png "Cadastro")
 
 - Autenticação de usuários via JWT
 
