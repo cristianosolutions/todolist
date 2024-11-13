@@ -64,7 +64,9 @@ npm run dev
   <img src="./assets/readme/dashboard.png" />
 </p>
 
-.## Cinfigurar o Frontend
+
+
+. ## Configurar o Frontend
 
 ## 💻 Sobre o projeto
 
