@@ -102,7 +102,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
-> A aplicação consome uma API. Para o funcionamento correto, instale e configure a API primeiro. [Clique aqui para o passo a passo](https://github.com/kassiosilva/api-todo-list).
+echo
+echo
+echo
 
 Clone o projeto e depois de baixado entre na raiz do projeto e execute:
 
