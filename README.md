@@ -59,7 +59,7 @@ npm run dev
 </h1>
 
 <p align="center" style="margin-right: 8px">
-  <img src=".frontend/assets/readme/dashboard.png" />
+  <img src="frontend/assets/readme/dashboard.png"/>
 </p>
 
 
