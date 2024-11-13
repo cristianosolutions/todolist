@@ -83,7 +83,7 @@ Esse front end traz todas as principais funcionalidades de uma lista de tarefas,
 
 - Autenticação de usuários via JWT
 
-  ![Tela de login](/assets/readme/login.png "Login")
+  ![Tela de login](frontend/assets/readme/login.png "Login")
 
 - Autenticado você é redirecionado para a dashboard onde estará listado suas tarefas. Você pode adicionar, remover e marcar como concluído as tarefas.
 
