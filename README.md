@@ -4,8 +4,6 @@
   
 
 
-> Foi desenvolvido também o **front end Minhas listas**. Se quiser olhar como ficou [clique aqui](https://github.com/cristianosolutions/todolist/tree/main/frontend).
-
 Esse backend traz todas as principais funcionalidades de uma lista de tarefas, além de persistir as tarefas em um banco de dados. Essa API foi feita como trabalho final da disciplina de desenv plataformas web.
 
 ## ⚙️ Funcionalidades
@@ -70,7 +68,6 @@ npm run dev
 
 ## 💻 Sobre o projeto
 
-> Foi desenvolvido também o **backend Minhas listas**. Se quiser olhar como ficou [clique aqui](https://github.com/kassiosilva/api-todo-list).
 
 Esse front end traz todas as principais funcionalidades de uma lista de tarefas, além de se comunicar com uma API REST para para salvar suas tarefas. Este sistema foi feito como trabalho final da disciplina de desenv plataformas web.
 
