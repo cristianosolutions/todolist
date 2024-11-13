@@ -75,7 +75,7 @@ Esse front end traz todas as principais funcionalidades de uma lista de tarefas,
 
 - Apresentação da aplicação (Landing Page)
 
-  ![Landing Page](/assets/readme/landing-page.png "Home")
+  ![Landing Page](frontend/assets/readme/landing-page.png "Home")
 
 - Criação de usuários
 
