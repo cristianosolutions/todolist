@@ -66,7 +66,7 @@ npm run dev
 
 
 
-. ## Configurar o Frontend
+- ## Configurar o Frontend
 
 ## 💻 Sobre o projeto
 
