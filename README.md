@@ -102,9 +102,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o projeto
 
-echo
-echo
-echo
+
 
 Clone o projeto e depois de baixado entre na raiz do projeto e execute:
 
